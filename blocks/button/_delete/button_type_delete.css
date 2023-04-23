@@ -1,0 +1,9 @@
+.button_type_delete .button_type_delete-img {
+  height: 2em;
+  transform: rotateZ(45deg);
+  transition: transform 200ms ease-in;
+}
+
+.button_type_delete .button_type_delete-img:hover {
+  transform: rotateZ(0);
+}
