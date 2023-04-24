@@ -1,8 +1,8 @@
 .info {
-  width:500px;
-  margin:0 auto;
-  display:block;
-  text-align:right
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+  text-align: right
 }
 
 @media (max-width:768px) {
