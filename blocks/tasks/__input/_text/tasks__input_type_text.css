@@ -1,0 +1,18 @@
+.tasks__input_type_text {
+  margin: 0;
+  font-size: 18px;
+  line-height: 18px;
+  height: 21px;
+  padding: 0 9px;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 6px;
+  font-family: Lato, sans-serif;
+  color: #888;
+  width: 226px;
+  display: none;
+}
+
+tasks__input_type_text:focus {
+  color: #333;
+}

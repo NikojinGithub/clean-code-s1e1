@@ -1,0 +1,4 @@
+.tasks__label_type_complete {
+  text-decoration: line-through;
+  color: #888;
+}
